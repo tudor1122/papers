@@ -2,7 +2,7 @@ Authors: Tudor Morar, Tanya Match, John Smith
 Title: Paper for the workshop in Florence, Italy
 
 Introduction: Not sure yet
-Analysis
+Analysis: Just beginning this chapter.
 Discussion: This should have some literature as well. Not sure yet
 Conclusion: Also not sure yet
 
