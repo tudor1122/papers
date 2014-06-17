@@ -1,4 +1,4 @@
-Authors: zainab alsoufi,Tudor Morar, Tanya Match, John Smith
+Authors: Tudor Morar, Tanya Match, John Smith
 Title: Paper for the workshop in Florence, Italy
 
 Introduction: Not sure yet
@@ -8,7 +8,4 @@ Conclusion: Also not sure yet
 
 Bibliography:
 references.txt
-
-
-
 
