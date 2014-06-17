@@ -6,3 +6,6 @@ Analysis
 Discussion: This should have some literature as well. Not sure yet
 Conclusion: Also not sure yet
 
+Bibliography:
+references.txt
+
