@@ -1,7 +1,7 @@
-Author
-Title
+Authors: Tudor Morar
+Title: The actual best paper ever
 
-Introduction
+Introduction: Not sure yet
 Analysis
 Discussion
 Conclusion
