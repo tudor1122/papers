@@ -3,6 +3,6 @@ Title: The actual best paper ever
 
 Introduction: Not sure yet
 Analysis
-Discussion
+Discussion: This should have some literature as well. Not sure yet
 Conclusion
 
